@@ -1,0 +1,15 @@
+C:\my c# programing\bin\Debug\net7.0\my c# programing.exe
+C:\my c# programing\bin\Debug\net7.0\my c# programing.deps.json
+C:\my c# programing\bin\Debug\net7.0\my c# programing.runtimeconfig.json
+C:\my c# programing\bin\Debug\net7.0\my c# programing.dll
+C:\my c# programing\bin\Debug\net7.0\my c# programing.pdb
+C:\my c# programing\obj\Debug\net7.0\my c# programing.csproj.AssemblyReference.cache
+C:\my c# programing\obj\Debug\net7.0\my c# programing.GeneratedMSBuildEditorConfig.editorconfig
+C:\my c# programing\obj\Debug\net7.0\my c# programing.AssemblyInfoInputs.cache
+C:\my c# programing\obj\Debug\net7.0\my c# programing.AssemblyInfo.cs
+C:\my c# programing\obj\Debug\net7.0\my c# programing.csproj.CoreCompileInputs.cache
+C:\my c# programing\obj\Debug\net7.0\my c# programing.dll
+C:\my c# programing\obj\Debug\net7.0\refint\my c# programing.dll
+C:\my c# programing\obj\Debug\net7.0\my c# programing.pdb
+C:\my c# programing\obj\Debug\net7.0\my c# programing.genruntimeconfig.cache
+C:\my c# programing\obj\Debug\net7.0\ref\my c# programing.dll
